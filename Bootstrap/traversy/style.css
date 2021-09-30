@@ -1,0 +1,29 @@
+html{
+    --mainColor: rgba(0, 255, 149, 0.267);
+}
+
+/* .container{
+    max-width: none;
+
+
+
+} */
+
+/* 
+@media screen and (max-width:500px) {
+    .navbar-nav{
+        position: absolute;
+    }    
+} */
+
+p{
+    
+    color: var(--mainColor);
+}
+h1:hover{
+    font-size: 5rem;
+}
+
+h1{
+    color:var(--mainColor)
+}
