@@ -1,0 +1,29 @@
+*{
+    padding:0;
+    margin: 0;
+}
+.container1{
+ 
+    width: 100%;
+    height: 100vh;
+    background-color: red;
+}
+.container2{
+    width: 100%;
+    height: 80vh;
+    background-color: rgb(0, 74, 109);
+}
+.container3{
+    width: 100%;
+    height: 90vh;
+    background-color: rgb(204, 0, 255)(231, 0, 0);
+}
+.lastOne{
+    visibility: hidden;
+    animation-duration: 2s;
+}
+.container{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
