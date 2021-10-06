@@ -1,0 +1,32 @@
+{
+    "0":{
+        "name":"samet",
+        "hours":12,
+        "email":"cimensamet338@gmail.com",
+        "position":"Secretary"
+    },
+    "1":{
+        "name":"afnan",
+        "hours":54,
+        "email":"afnanhabib@gmail.com",
+        "position":"President"
+    },
+    "2":{
+        "name":"rudhnan",
+        "hours":10,
+        "email":"rudhnanhabib@gmail.com",
+        "position":"VP"
+    },
+    "3":{
+        "name":"shao",
+        "hours":7,
+        "email":"shao@gmail.com",
+        "position":"General Member"
+    },
+    "4":{
+        "name":"wenbin",
+        "hours":14,
+        "email":"wenbin@gmail.com",
+        "position":"General Member"
+    }
+}
